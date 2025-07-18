@@ -1,1 +1,1 @@
-# redshift-database-_sample
+# redshift-database-sample

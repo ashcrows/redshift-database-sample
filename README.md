@@ -1,0 +1,1 @@
+# redshift-database-_sample
